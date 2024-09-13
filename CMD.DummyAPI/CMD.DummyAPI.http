@@ -1,0 +1,6 @@
+@CMD.DummyAPI_HostAddress = http://localhost:5068
+
+GET {{CMD.DummyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
